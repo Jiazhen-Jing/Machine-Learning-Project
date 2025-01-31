@@ -1,5 +1,3 @@
-# Machine-Learning-Project
-Comparison of Two Supervised Learning Methods for the Classification of  Jellyfish Images
 # Jellyfish Image Classification: CNN vs. Transfer Learning
 ## Overview
 This project compares two supervised learning methods—Convolutional Neural Networks (CNN) and Transfer Learning using the VGG16 architecture—for classifying six different species of jellyfish. The goal is to evaluate the effectiveness of these models based on accuracy, validation performance, and generalizability.
